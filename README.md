@@ -68,3 +68,11 @@ When the model was satisfied with the accuracy then a python endpoint was create
 ### Machine Learning Demostration using Tableau
 
 ![](https://github.com/malejandrasalgado/Speed-Camara-in-Action/blob/main/Images/Machine%20Learning%20Demostration.JPG)
+
+### Link
+
+Click [here](https://public.tableau.com/views/TrafficDataAnalysis_16347964300420/Analysis?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) to go to Tableau - Traffic Data Analysys
+
+#### Analytics Extension scripts are not allowed in public workbooks
+
+If you require any further information, feel free to contact me.
